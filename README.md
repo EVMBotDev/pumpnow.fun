@@ -4,6 +4,10 @@ This web based bump bot will keep you on the front page of Pump.fun or keep your
 
 Access the bot at [PumpNow.fun](https://pumpnow.fun)
 
+At this point in time, it is not necessary to connect a wallet with wallet connect (Solflare, Phanton, etc). 
+We will be implementing fee tiers which will utilize connected wallets. 
+# PLEASE DO NOT PROVIDE A PRIVATE KEY FOR A WALLET YOU DO NOT WISH TO TRADE FROM!!!
+
 # Settings
 
 [![Settings](https://i.ibb.co/SJvShBz/settings.jpg)
